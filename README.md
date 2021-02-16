@@ -1,6 +1,7 @@
 # ml-intro-2021_Labs
 
 This is a repo for labs done during RS School 'ML Intro' 2021 Session. The course is provided by The Rolling Scopes community.
+Forked repo is available at https://github.com/Mystika007/ml-intro 
 
 Week 01 - Data Manipulations in Pandas
 
