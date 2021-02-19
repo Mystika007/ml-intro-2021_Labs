@@ -3,6 +3,7 @@
 This is a repo for labs done during RS School 'ML Intro' 2021 Session. The course is provided by The Rolling Scopes community.
 
 Forked repo is available at https://github.com/Mystika007/ml-intro
+
 Video: https://www.youtube.com/playlist?list=PLzLiprpVuH8eUUJkLCRXNK4K1eED8_xTj
 
 ------
