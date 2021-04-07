@@ -1,6 +1,7 @@
 # ml-intro-2021_Labs
 
 This is a repo for labs done during RS School 'ML Intro' 2021 Session. The course is provided by The Rolling Scopes community.
+Certificate of completion: https://app.rs.school/certificate/zahwu4ry
 
 Forked repo is available at https://github.com/Mystika007/ml-intro
 
@@ -23,5 +24,3 @@ Week 06 - Trees and ensembles
 Week 07 - Clustering and dimensionality reduction
 
 Week 08 - Model evaluation and selection
-
-Week 09 - Capstone project
